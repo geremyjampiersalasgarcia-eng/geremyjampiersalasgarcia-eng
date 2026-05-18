@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF99,100:0d1117&height=200&section=header&text=GEREMY%20SALAS.&fontSize=52&fontColor=00FF99&fontAlignY=38&animation=fadeIn" width="100%" />
 
 <!-- ANIMACIÓN DE TEXTO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Ingeniero+Backend+%7C+Ecuador;Arquitecto+SaaS+%7C+Multi-Tenant;Python+%2B+TypeScript+%2B+FastAPI+%2B+Next.js;Seguridad+Enterprise+%7C+Zero+Trust)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Ingeniero+Backend+%7C+Ecuador;Construyendo+SaaS+%7C+Multi-Tenant;Python+%2B+TypeScript+%2B+FastAPI+%2B+Next.js;Arquitectura+Segura+%7C+RBAC+%2B+Auditoría)](https://git.io/typing-svg)
 
 <br>
 
@@ -118,7 +118,7 @@ filosofía: "Aprender construyendo proyectos reales"
 | **Contratos** | DocuSign (Embedded Signing) | Firma electrónica vinculante vía iframe |
 | **Almacenamiento** | AWS S3 / Supabase Storage | Bóveda encriptada con URLs presignadas |
 | **Correo** | Resend + Jinja2 | Emails transaccionales con templates HTML |
-| **Seguridad** | AES-256 + RBAC + Zero Trust | Encriptación militar, auditoría inmutable |
+| **Seguridad** | AES-256 + RBAC | Encriptación en reposo, auditoría inmutable |
 | **CI/CD** | GitHub Actions + Pytest + Playwright | Tests automatizados + simulación E2E |
 
 </details>
@@ -267,7 +267,7 @@ filosofía: "Aprender construyendo proyectos reales"
 </div>
 
 ```
- AISLAMIENTO MULTI-TENANT    SEGURIDAD ZERO TRUST      DISEÑO EVENT-DRIVEN
+ AISLAMIENTO MULTI-TENANT    ARQUITECTURA SEGURA       DISEÑO EVENT-DRIVEN
  ========================    =====================     ====================
  Segmentación por tenant_id  Encriptación AES-256      Celery + Redis async.
  en todas las capas.         en reposo. Auditoría      Backoff exponencial.
