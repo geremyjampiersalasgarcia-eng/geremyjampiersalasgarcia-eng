@@ -240,6 +240,20 @@ filosofía: "Aprender construyendo proyectos reales"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geremyjampiersalasgarcia-eng&bg_color=0d1117&color=00FF99&line=00FF99&point=8b949e&area=true&area_color=00FF9930&hide_border=true&custom_title=L%C3%ADnea%20de%20Tiempo%20de%20Contribuciones" />
 </a>
 
+<br><br>
+
+<!-- SERPIENTE DE CONTRIBUCIONES -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geremyjampiersalasgarcia-eng/geremyjampiersalasgarcia-eng/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geremyjampiersalasgarcia-eng/geremyjampiersalasgarcia-eng/output/github-snake.svg" />
+  <img alt="Animación de serpiente de contribuciones" src="https://raw.githubusercontent.com/geremyjampiersalasgarcia-eng/geremyjampiersalasgarcia-eng/output/github-snake.svg" />
+</picture>
+
+<br><br>
+
+<!-- FRASE DEV ALEATORIA -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Frase de desarrollo" />
+
 </div>
 
 <!-- SEPARADOR -->
