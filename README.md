@@ -1,42 +1,51 @@
 <div align="center">
 
-<!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF99,100:0d1117&height=220&section=header&text=GEREMY%20SALAS&fontSize=50&fontColor=00FF99&fontAlignY=35&desc=Ingeniero%20Backend%20%7C%20Arquitecto%20SaaS%20%7C%20Sistemas%20Empresariales&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<!-- BARRA DE STATUS -->
+![Status](https://img.shields.io/badge/SYSTEM__STATUS:_ONLINE-0d1117?style=for-the-badge&logo=statuspage&logoColor=00FF99)
+![Role](https://img.shields.io/badge/Ingeniero_en_Sistemas_de_Informaci%C3%B3n-0d1117?style=for-the-badge&logo=target&logoColor=00FF99)
 
-<!-- ANIMACION DE TEXTO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Ingeniero+Backend+desde+Ecuador+%7C+Creando+SaaS+de+grado+empresarial;Obsesionado+con+arquitectura+escalable+y+seguridad+enterprise;De+la+idea+a+infraestructura+desplegada+%E2%80%94+end+to+end;Python+%2B+TypeScript+%7C+FastAPI+%2B+Next.js+%7C+PostgreSQL+%2B+Redis)](https://git.io/typing-svg)
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF99,100:0d1117&height=200&section=header&text=GEREMY%20SALAS.&fontSize=52&fontColor=00FF99&fontAlignY=38&animation=fadeIn" width="100%" />
+
+<!-- ANIMACIÓN DE TEXTO -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Ingeniero+Backend+%7C+Ecuador;Arquitecto+SaaS+%7C+Multi-Tenant;Python+%2B+TypeScript+%2B+FastAPI+%2B+Next.js;Seguridad+Enterprise+%7C+Zero+Trust)](https://git.io/typing-svg)
+
+<br>
+
+> Desarrollador web y móvil con pasión por crear aplicaciones<br>
+> y experiencias de usuario de calidad. Siempre aprendiendo.
 
 </div>
 
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- SOBRE MI -->
+<!-- SOBRE MÍ + STACK -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Sobre Mi
+### Sobre Mí
 
 ```yaml
 nombre: Geremy Salas
-rol: Ingeniero Backend & Constructor de SaaS
-ubicacion: Ecuador
+rol: Ingeniero en Sistemas de Información
+ubicación: Ecuador
 enfoque:
-  - Arquitectura multi-tenant empresarial
-  - Sistemas backend escalables
-  - Infraestructura security-first
-  - Integraciones con IA
+  - Desarrollo backend con Python y FastAPI
+  - Aplicaciones web con Next.js y TypeScript
+  - Bases de datos y arquitectura de APIs
+  - Aprendiendo sobre IA e integraciones
 construyendo:
-  - KONTRAX  — SaaS de gestion de contratistas
-  - NOVADIFY — Plataforma de alojamiento y turismo
-filosofia: "Codigo de grado produccion, no prototipos"
+  - KONTRAX  — Gestión de contratistas
+  - NOVADIFY — Alojamiento y turismo
+filosofía: "Aprender construyendo proyectos reales"
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### Stack Tecnologico
+### Stack Tecnológico
 
 **Backend e Infraestructura**
 
@@ -64,7 +73,7 @@ filosofia: "Codigo de grado produccion, no prototipos"
 ![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=00FF99)
 ![PayPal](https://img.shields.io/badge/PayPal-0d1117?style=flat-square&logo=paypal&logoColor=00FF99)
 ![DocuSign](https://img.shields.io/badge/DocuSign-0d1117?style=flat-square&logo=docusign&logoColor=00FF99)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-0d1117?style=flat-square&logo=google&logoColor=00FF99)
+![Gemini](https://img.shields.io/badge/Gemini_AI-0d1117?style=flat-square&logo=google&logoColor=00FF99)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=00FF99)
 ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=00FF99)
 ![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=flat-square&logo=pytest&logoColor=00FF99)
@@ -88,29 +97,29 @@ filosofia: "Codigo de grado produccion, no prototipos"
 <tr>
 <td>
 
-### <img src="https://img.shields.io/badge/PUBLICO-00FF99?style=flat-square&logoColor=white" /> KONTRAX &mdash; Plataforma de Gestion de Contratistas Empresarial
+### <img src="https://img.shields.io/badge/PÚBLICO-00FF99?style=flat-square&logoColor=white" /> KONTRAX &mdash; Gestión de Contratistas Empresarial
 
 [![Kontrax CI](https://github.com/geremyjampiersalasgarcia-eng/Kontrax/actions/workflows/ci.yml/badge.svg)](https://github.com/geremyjampiersalasgarcia-eng/Kontrax/actions)
 
-> SaaS B2B multi-tenant para la gestion del ciclo de vida de contratistas a nivel empresarial.
-> Modelo de seguridad Zero Trust con verificacion KYC de grado bancario, flujos legales automatizados via DocuSign embedded signing, y dashboards de gobernanza operativa en tiempo real.
+> Plataforma SaaS multi-tenant para gestionar el proceso de incorporación de contratistas.
+> Integra verificación de identidad (Stripe), firma de contratos (DocuSign) y dashboards operativos.
 
 <details>
-<summary><b>Arquitectura y Matriz Tecnologica</b></summary>
+<summary><b>Arquitectura y Tecnologías</b></summary>
 <br>
 
-| Capa | Tecnologia | Proposito |
+| Capa | Tecnología | Propósito |
 |:-----|:-----------|:----------|
-| **API** | FastAPI + Pydantic v2 + SQLAlchemy 2.0 | API REST asincrona con validacion estricta de DTOs |
-| **Base de Datos** | PostgreSQL + Alembic | Aislamiento multi-tenant con control de migraciones y soft-delete |
-| **Cache / Cola** | Redis + Celery + Celery Beat | Jobs en segundo plano, monitoreo SLA (72h), reintentos con backoff exponencial |
-| **Frontend** | Next.js 15 + TypeScript + Shadcn UI | App Router, SSR, i18n (next-intl), Zustand + TanStack Query |
-| **Identidad** | Stripe Identity | KYC de grado bancario con verificacion biometrica facial |
-| **Contratos** | DocuSign (Embedded Signing) | Firma electronica legalmente vinculante via iframe integrado |
-| **Almacenamiento** | AWS S3 / Supabase Storage | Boveda de documentos encriptada con URLs presignadas |
-| **Correo** | Resend + Jinja2 | Emails transaccionales con plantillas HTML corporativas |
-| **Seguridad** | AES-256 + RBAC + Zero Trust | Encriptacion de grado militar, logs de auditoria inmutables, deteccion de fuerza bruta |
-| **CI/CD** | GitHub Actions + Pytest + Playwright | Tests automatizados de backend y simulacion E2E completa |
+| **API** | FastAPI + Pydantic v2 + SQLAlchemy 2.0 | API REST asíncrona con validación estricta |
+| **Base de Datos** | PostgreSQL + Alembic | Aislamiento multi-tenant con migraciones y soft-delete |
+| **Cola / Cache** | Redis + Celery + Celery Beat | Jobs async, monitoreo SLA 72h, backoff exponencial |
+| **Frontend** | Next.js 15 + TypeScript + Shadcn UI | App Router, SSR, i18n, Zustand + TanStack Query |
+| **Identidad** | Stripe Identity | KYC bancario con verificación biométrica facial |
+| **Contratos** | DocuSign (Embedded Signing) | Firma electrónica vinculante vía iframe |
+| **Almacenamiento** | AWS S3 / Supabase Storage | Bóveda encriptada con URLs presignadas |
+| **Correo** | Resend + Jinja2 | Emails transaccionales con templates HTML |
+| **Seguridad** | AES-256 + RBAC + Zero Trust | Encriptación militar, auditoría inmutable |
+| **CI/CD** | GitHub Actions + Pytest + Playwright | Tests automatizados + simulación E2E |
 
 </details>
 
@@ -118,15 +127,15 @@ filosofia: "Codigo de grado produccion, no prototipos"
 <summary><b>Capacidades Principales</b></summary>
 <br>
 
-- **Aislamiento Multi-Tenant B2B** &mdash; Segmentacion estricta por `tenant_id`, branding dinamico por subdominio (`agencia.kontrax.com`), compatible con GDPR/CCPA
-- **Autorizacion RBAC** &mdash; Sistema de cuatro roles: System Admin / Admin / Operador / Contratista
-- **Pipeline de Onboarding en 5 Pasos** &mdash; Datos Personales > Documentos (S3) > Contrato (DocuSign Embedded) > Metodo de Pago > KYC (Stripe Identity)
-- **Dashboard de Operador en Tiempo Real** &mdash; Analitica con Recharts, monitoreo de SLAs (72h), embudos de conversion, actividad semanal
-- **Workspace Post-Onboarding** &mdash; Asignacion de tareas con niveles de prioridad (Baja/Media/Alta/Critica), subida de entregables, flujos de aprobacion
-- **Workers Celery** &mdash; Envio asincrono de emails con backoff exponencial, auto-cierre de SLAs via Celery Beat
-- **Auditoria Inmutable** &mdash; Cada accion registrada con ID del actor, timestamp, IP, estado anterior vs. nuevo
-- **Internacionalizacion** &mdash; Soporte completo ES/EN con cambio de idioma en tiempo real (next-intl)
-- **Inteligencia de Negocios** &mdash; Exportacion de reportes CSV para rosters de talento, historial de asignaciones y resumenes de auditoria
+- **Aislamiento Multi-Tenant B2B** &mdash; Segmentación por `tenant_id`, branding por subdominio, GDPR/CCPA
+- **RBAC de 4 Niveles** &mdash; System Admin / Admin / Operador / Contratista
+- **Onboarding en 5 Pasos** &mdash; Datos > Documentos (S3) > Contrato (DocuSign) > Pago > KYC (Stripe)
+- **Dashboard Operador** &mdash; Recharts, SLAs 72h, embudos de conversión, actividad semanal
+- **Workspace Post-Aprobación** &mdash; Asignación de tareas con prioridad, entregables, aprobaciones
+- **Workers Celery** &mdash; Emails async con backoff exponencial, auto-cierre SLA vía Beat
+- **Auditoría Inmutable** &mdash; Actor, timestamp, IP, estado anterior vs. nuevo
+- **i18n** &mdash; Soporte ES/EN en tiempo real con next-intl
+- **BI** &mdash; Reportes CSV: rosters, asignaciones, auditoría
 
 </details>
 
@@ -134,7 +143,7 @@ filosofia: "Codigo de grado produccion, no prototipos"
 
 [![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=00FF99)](https://github.com/geremyjampiersalasgarcia-eng/Kontrax)
 ![Commits](https://img.shields.io/badge/145+_Commits-0d1117?style=for-the-badge&logo=git&logoColor=00FF99)
-![Estado](https://img.shields.io/badge/Estado:_Produccion-0d1117?style=for-the-badge&logo=statuspage&logoColor=00FF99)
+![Estado](https://img.shields.io/badge/Producción-0d1117?style=for-the-badge&logo=statuspage&logoColor=00FF99)
 
 </div>
 
@@ -149,30 +158,30 @@ filosofia: "Codigo de grado produccion, no prototipos"
 <tr>
 <td>
 
-### <img src="https://img.shields.io/badge/PRIVADO-8b949e?style=flat-square&logoColor=white" /> NOVADIFY &mdash; Plataforma de Alojamiento y Turismo Full-Service
+### <img src="https://img.shields.io/badge/PRIVADO-8b949e?style=flat-square&logoColor=white" /> NOVADIFY &mdash; Plataforma de Alojamiento y Turismo
 
-> Plataforma full-stack de grado produccion inspirada en Airbnb, disenada especificamente para el mercado ecuatoriano.
-> Conecta Anfitriones, Turistas y Administradores con asistente de viaje IA integrado, pagos PayPal en tiempo real, facturacion PDF automatizada y Google Analytics 4.
+> Plataforma full-stack de alojamiento y turismo inspirada en Airbnb, enfocada en Ecuador.
+> Conecta anfitriones y turistas con pagos reales (PayPal), asistente IA y facturación PDF.
 
 <details>
-<summary><b>Arquitectura y Matriz Tecnologica</b></summary>
+<summary><b>Arquitectura y Tecnologías</b></summary>
 <br>
 
-| Capa | Tecnologia | Proposito |
+| Capa | Tecnología | Propósito |
 |:-----|:-----------|:----------|
-| **Framework** | Next.js 15 (App Router) | Motor SSR, Edge API Routes, `generateMetadata` para SEO |
-| **Lenguaje** | TypeScript 5+ | Tipado estatico en todo el codebase |
-| **Base de Datos** | Supabase (PostgreSQL) | Politicas RLS, triggers SQL para auto-calificacion, suscripciones en tiempo real |
-| **Autenticacion** | Supabase Auth + Google OAuth | Magic Link y Login Social |
-| **IA** | Google Gemini 1.5 | Asistente conversacional de viaje con recomendaciones NLP |
-| **Pagos** | PayPal React SDK | Captura segura de pagos en USD con trail de auditoria |
-| **PDF** | @react-pdf/renderer | Generacion de facturas A4 server-side con branding corporativo |
-| **Correo** | Resend | Confirmaciones HTML de reservas, alertas a anfitriones, solicitudes de review |
-| **Estado** | Zustand + TanStack React Query | Gestion de estado global + actualizaciones optimistas de UI |
-| **Estilos** | Tailwind CSS 4+ | Sistema de diseno con arquitectura Zero Layout Shift |
-| **Analitica** | Recharts + Google Analytics 4 | Dashboards SVG para admin + metricas de trafico en tiempo real |
-| **Testing** | Vitest + Playwright | Tests unitarios + simulacion E2E en navegador (Desktop + Mobile) |
-| **CI/CD** | GitHub Actions | Pipeline: Lint > TSC > Unit > E2E > Deploy en Vercel |
+| **Framework** | Next.js 15 (App Router) | SSR, Edge API Routes, SEO con `generateMetadata` |
+| **Lenguaje** | TypeScript 5+ | Tipado estático en todo el proyecto |
+| **Base de Datos** | Supabase (PostgreSQL) | RLS, triggers SQL, suscripciones real-time |
+| **Auth** | Supabase Auth + Google OAuth | Magic Link y Login Social |
+| **IA** | Google Gemini 1.5 | Asistente de viaje conversacional con NLP |
+| **Pagos** | PayPal React SDK | Captura USD con auditoría de transacciones |
+| **PDF** | @react-pdf/renderer | Facturas A4 server-side con branding |
+| **Correo** | Resend | Confirmaciones, alertas, solicitudes de review |
+| **Estado** | Zustand + TanStack Query | Estado global + actualizaciones optimistas |
+| **Estilos** | Tailwind CSS 4+ | Arquitectura Zero Layout Shift |
+| **Analítica** | Recharts + Google Analytics 4 | Dashboards SVG + tráfico en tiempo real |
+| **Testing** | Vitest + Playwright | Unit + E2E (Desktop + Mobile) |
+| **CI/CD** | GitHub Actions | Lint > TSC > Unit > E2E > Vercel |
 
 </details>
 
@@ -180,23 +189,23 @@ filosofia: "Codigo de grado produccion, no prototipos"
 <summary><b>Capacidades Principales</b></summary>
 <br>
 
-- **Ecosistema Super App Unificado** &mdash; Alojamientos + Experiencias Culturales + Servicios Privados (Chefs, Mixologia, Bienestar) en una sola plataforma
-- **RBAC de Tres Niveles** &mdash; Turista / Anfitrion / Admin aplicado en Edge Middleware + PostgreSQL RLS simultaneamente
-- **Arquitectura Zero Layout Shift** &mdash; Route Group `(home)` con Navbar persistente, transiciones scroll de modo dual, sistema de iconos SVG
-- **Asistente de Viaje IA** &mdash; Interfaz conversacional con Gemini que lee datos de propiedades en vivo para recomendaciones personalizadas
-- **Wallet Financiero del Anfitrion** &mdash; Dashboard dinamico de ingresos con calculo automatizado de comisiones
-- **Flujo de Checkout PayPal** &mdash; Fechas > Resumen > Captura PayPal > Envio de Email > Descarga de Factura PDF
-- **Base de Datos Auto-Reparable** &mdash; Triggers SQL recalculan automaticamente ratings de propiedades/experiencias en cada insert de review
-- **Motor de Wishlist** &mdash; Favoritos en tiempo real con feedback visual instantaneo y proteccion RLS
-- **Refactor Server Components** &mdash; Paginas SSR de propiedades con `generateMetadata`, Client Components aislados para interactividad
-- **UI Optimista** &mdash; TanStack Query `useMutation` para confirmaciones de reserva instantaneas sin recargas completas
+- **Super App Unificada** &mdash; Alojamientos + Experiencias + Servicios Privados en una plataforma
+- **RBAC Triple** &mdash; Turista / Anfitrión / Admin en Middleware + RLS simultáneo
+- **Zero Layout Shift** &mdash; Route Group `(home)`, Navbar persistente, scroll dual-mode
+- **IA de Viaje** &mdash; Gemini lee propiedades en vivo para recomendaciones personalizadas
+- **Wallet del Anfitrión** &mdash; Dashboard de ingresos con cálculo automático de comisiones
+- **Checkout PayPal** &mdash; Fechas > Resumen > Captura > Email > Factura PDF
+- **DB Auto-Reparable** &mdash; Triggers SQL recalculan ratings en cada review
+- **Wishlist** &mdash; Favoritos real-time con protección RLS
+- **Server Components** &mdash; SSR con `generateMetadata`, Client Components aislados
+- **UI Optimista** &mdash; `useMutation` para confirmaciones instantáneas
 
 </details>
 
 <div align="center">
 
-![Estado](https://img.shields.io/badge/Estado:_Produccion-0d1117?style=for-the-badge&logo=statuspage&logoColor=00FF99)
-![Acceso](https://img.shields.io/badge/Acceso:_Repositorio_Privado-0d1117?style=for-the-badge&logo=lock&logoColor=8b949e)
+![Estado](https://img.shields.io/badge/Producción-0d1117?style=for-the-badge&logo=statuspage&logoColor=00FF99)
+![Acceso](https://img.shields.io/badge/Repositorio_Privado-0d1117?style=for-the-badge&logo=lock&logoColor=8b949e)
 
 </div>
 
@@ -207,10 +216,10 @@ filosofia: "Codigo de grado produccion, no prototipos"
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ESTADISTICAS DE GITHUB -->
+<!-- ESTADÍSTICAS -->
 <div align="center">
 
-## Estadisticas de GitHub
+## Estadísticas de GitHub
 
 <br>
 
@@ -221,23 +230,20 @@ filosofia: "Codigo de grado produccion, no prototipos"
 
 <br><br>
 
-<!-- RACHA DE CONTRIBUCIONES -->
 <a href="https://github.com/geremyjampiersalasgarcia-eng">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geremyjampiersalasgarcia-eng&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=8b949e&dates=8b949e&currStreakNum=00FF99&sideNums=00FF99&locale=es" />
 </a>
 
 <br><br>
 
-<!-- TROFEOS -->
 <a href="https://github.com/geremyjampiersalasgarcia-eng">
   <img src="https://github-profile-trophy.vercel.app/?username=geremyjampiersalasgarcia-eng&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10" />
 </a>
 
 <br><br>
 
-<!-- GRAFICO DE CONTRIBUCIONES -->
 <a href="https://github.com/geremyjampiersalasgarcia-eng">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geremyjampiersalasgarcia-eng&bg_color=0d1117&color=00FF99&line=00FF99&point=8b949e&area=true&area_color=00FF9930&hide_border=true&custom_title=Linea%20de%20Tiempo%20de%20Contribuciones" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geremyjampiersalasgarcia-eng&bg_color=0d1117&color=00FF99&line=00FF99&point=8b949e&area=true&area_color=00FF9930&hide_border=true&custom_title=L%C3%ADnea%20de%20Tiempo%20de%20Contribuciones" />
 </a>
 
 </div>
@@ -245,26 +251,25 @@ filosofia: "Codigo de grado produccion, no prototipos"
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- PRINCIPIOS DE INGENIERIA -->
+<!-- PRINCIPIOS -->
 <div align="center">
 
-## Principios de Ingenieria
+## Principios de Ingeniería
 
 </div>
 
 ```
- AISLAMIENTO MULTI-TENANT   SEGURIDAD ZERO TRUST      DISENO BASADO EN EVENTOS
- ========================   =====================     ========================
- Segmentacion estricta       Encriptacion AES-256      Celery + Redis como
- por tenant_id en todas      en reposo. Logs de        cola de tareas async.
- las capas de datos.         auditoria inmutables.     Backoff exponencial.
- Compatible GDPR/CCPA.       Enforcement RBAC.         Auto-cierre SLA 72h.
+ AISLAMIENTO MULTI-TENANT    SEGURIDAD ZERO TRUST      DISEÑO EVENT-DRIVEN
+ ========================    =====================     ====================
+ Segmentación por tenant_id  Encriptación AES-256      Celery + Redis async.
+ en todas las capas.         en reposo. Auditoría      Backoff exponencial.
+ Compatible GDPR/CCPA.       inmutable. RBAC.          Auto-cierre SLA 72h.
 
- DISENO API-FIRST            TESTING AUTOMATIZADO      INFRAESTRUCTURA COMO CODIGO
- ========================   =====================     ========================
- FastAPI + Pydantic v2       Pytest + Vitest unit.     Docker Compose local.
- validacion estricta de      Playwright E2E.           GitHub Actions CI/CD.
- esquemas. Auto-docs.        Multi-browser headless.   Deploys edge en Vercel.
+ DISEÑO API-FIRST            TESTING AUTOMATIZADO      INFRA AS CODE
+ ========================    =====================     ====================
+ FastAPI + Pydantic v2.      Pytest + Vitest unit.     Docker Compose local.
+ Validación estricta.        Playwright E2E multi-     GitHub Actions CI/CD.
+ OpenAPI auto-docs.          browser headless.         Deploy edge Vercel.
 ```
 
 <!-- SEPARADOR -->
@@ -284,12 +289,10 @@ filosofia: "Codigo de grado produccion, no prototipos"
 
 <br>
 
-<!-- CONTADOR DE VISITAS -->
 ![](https://komarev.com/ghpvc/?username=geremyjampiersalasgarcia-eng&color=00FF99&style=flat-square&label=Visitas+al+Perfil)
 
 <br>
 
-<!-- PIE DE PAGINA -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF99,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
