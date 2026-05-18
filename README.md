@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF99,100:0d1117&height=220&section=header&text=GEREMY%20SALAS&fontSize=50&fontColor=00FF99&fontAlignY=35&desc=Backend%20Engineer%20%7C%20SaaS%20Architect%20%7C%20Enterprise%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+enterprise-grade+SaaS+infrastructure;Architecting+multi-tenant+backend+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Backend+Engineer+from+Ecuador+%7C+Building+production-grade+SaaS;Obsessed+with+scalable+architecture+%26+enterprise+security;From+idea+to+deployed+infrastructure+%E2%80%94+end+to+end;Python+%2B+TypeScript+%7C+FastAPI+%2B+Next.js+%7C+PostgreSQL+%2B+Redis)](https://git.io/typing-svg)
 
 </div>
 
