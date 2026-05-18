@@ -223,12 +223,6 @@ filosofía: "Aprender construyendo proyectos reales"
 
 <br>
 
-<a href="https://github.com/geremyjampiersalasgarcia-eng">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=geremyjampiersalasgarcia-eng&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00FF99&title_color=00FF99&text_color=8b949e&ring_color=00FF99&locale=es" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=geremyjampiersalasgarcia-eng&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF99&text_color=8b949e&locale=es" />
-</a>
-
-<br><br>
 
 <a href="https://github.com/geremyjampiersalasgarcia-eng">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geremyjampiersalasgarcia-eng&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=8b949e&dates=8b949e&currStreakNum=00FF99&sideNums=00FF99&locale=es" />
