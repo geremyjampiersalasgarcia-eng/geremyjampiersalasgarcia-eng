@@ -54,19 +54,12 @@ filosofía: "Aprender construyendo proyectos reales"
 <table>
   <tr>
     <td width="70%" valign="top" align="center">
-
-#### Languages & Frameworks
-
-<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nextjs,fastapi,svelte,astro&perline=10" /> </a> </p>
-
-#### Backend & Databases
-
-<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgresql,mysql,mongodb,redis,graphql,docker&perline=10" /> </a> </p>
-
-#### Tools & Cloud
-
-<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,supabase,vercel,tailwind,linux&perline=10" /> </a> </p>
-
+      <h3>Languages & Frameworks</h3>
+      <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nextjs,fastapi,svelte,astro&perline=10" /></a></p>
+      <h3>Backend & Databases</h3>
+      <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgresql,mysql,mongodb,redis,graphql,docker&perline=10" /></a></p>
+      <h3>Tools & Cloud</h3>
+      <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,supabase,vercel,tailwind,linux&perline=10" /></a></p>
     </td>
     <td width="30%" valign="middle" align="center">
       <img alt="Cyberpunk Coder GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="max-width: 220px; border-radius: 10px;" />
