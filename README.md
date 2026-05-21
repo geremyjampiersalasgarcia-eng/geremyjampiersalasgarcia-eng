@@ -188,6 +188,7 @@ filosofía: "Aprender construyendo proyectos reales"
 
 <div align="center">
 
+[![Ver Sitio](https://img.shields.io/badge/Ver_Sitio-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF99)](https://novadify.vercel.app/)
 ![Estado](https://img.shields.io/badge/Producción-0d1117?style=for-the-badge&logo=statuspage&logoColor=00FF99)
 ![Acceso](https://img.shields.io/badge/Repositorio_Privado-0d1117?style=for-the-badge&logo=lock&logoColor=8b949e)
 
