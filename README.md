@@ -15,6 +15,10 @@
 > Desarrollador web y móvil con pasión por crear aplicaciones<br>
 > y experiencias de usuario de calidad. Siempre aprendiendo.
 
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-geremysalas.dev-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF99)](https://studio-rho-liart.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF99)](https://www.linkedin.com/in/geremy-jampier-salas-garcia-6a3a39302) [![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00FF99)](https://github.com/geremyjampiersalasgarcia-eng) [![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99)](mailto:geremyjampiersalasgarcia@gmail.com)
+
 </div>
 
 <!-- SEPARADOR -->
