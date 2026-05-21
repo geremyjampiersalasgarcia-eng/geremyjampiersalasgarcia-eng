@@ -20,12 +20,12 @@
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- SOBRE MÍ + STACK -->
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- SOBRE MÍ -->
+<div align="center">
 
-### Sobre Mí
+### 🤓 Sobre Mí
+
+</div>
 
 ```yaml
 nombre: Geremy Salas
@@ -42,10 +42,13 @@ construyendo:
 filosofía: "Aprender construyendo proyectos reales"
 ```
 
-</td>
-<td width="50%" valign="top">
+<!-- SEPARADOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Stack Tecnológico
+<!-- STACK TECNOLÓGICO -->
+<div align="center">
+
+### 🛠 Stack Tecnológico
 
 #### Languages & Frameworks
 
@@ -59,9 +62,7 @@ filosofía: "Aprender construyendo proyectos reales"
 
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,supabase,vercel,tailwind,linux&perline=10" /> </a> </p>
 
-</td>
-</tr>
-</table>
+</div>
 
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
