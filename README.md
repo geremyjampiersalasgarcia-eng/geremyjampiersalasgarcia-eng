@@ -46,7 +46,7 @@ filosofía: "Aprender construyendo proyectos reales"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- STACK TECNOLÓGICO -->
-<div align="center">
+<img align="right" alt="Cyberpunk Coder GIF" height="190px" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 ### 🛠 Stack Tecnológico
 
@@ -61,8 +61,6 @@ filosofía: "Aprender construyendo proyectos reales"
 #### Tools & Cloud
 
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,supabase,vercel,tailwind,linux&perline=10" /> </a> </p>
-
-</div>
 
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
