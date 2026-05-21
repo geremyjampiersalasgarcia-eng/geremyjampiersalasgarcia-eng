@@ -47,36 +47,17 @@ filosofía: "Aprender construyendo proyectos reales"
 
 ### Stack Tecnológico
 
-**Backend e Infraestructura**
+#### Languages & Frameworks
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF99)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00FF99)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00FF99)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00FF99)
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=flat-square&logo=celery&logoColor=00FF99)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=00FF99)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00FF99)
-![AWS](https://img.shields.io/badge/AWS_S3-0d1117?style=flat-square&logo=amazons3&logoColor=00FF99)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=00FF99)
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nextjs,fastapi,svelte,astro&perline=10" /> </a> </p>
 
-**Frontend e Interfaz**
+#### Backend & Databases
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FF99)
-![Next.js](https://img.shields.io/badge/Next.js_15-0d1117?style=flat-square&logo=next.js&logoColor=00FF99)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FF99)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00FF99)
-![Zustand](https://img.shields.io/badge/Zustand-0d1117?style=flat-square&logo=react&logoColor=00FF99)
-![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-0d1117?style=flat-square&logo=shadcnui&logoColor=00FF99)
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgresql,mysql,mongodb,redis,graphql,docker&perline=10" /> </a> </p>
 
-**Integraciones y DevOps**
+#### Tools & Cloud
 
-![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=00FF99)
-![PayPal](https://img.shields.io/badge/PayPal-0d1117?style=flat-square&logo=paypal&logoColor=00FF99)
-![DocuSign](https://img.shields.io/badge/DocuSign-0d1117?style=flat-square&logo=docusign&logoColor=00FF99)
-![Gemini](https://img.shields.io/badge/Gemini_AI-0d1117?style=flat-square&logo=google&logoColor=00FF99)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=00FF99)
-![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=00FF99)
-![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=flat-square&logo=pytest&logoColor=00FF99)
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,supabase,vercel,tailwind,linux&perline=10" /> </a> </p>
 
 </td>
 </tr>
