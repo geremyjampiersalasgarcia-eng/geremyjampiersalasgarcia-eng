@@ -49,10 +49,11 @@ filosofía: "Aprender construyendo proyectos reales"
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- STACK TECNOLÓGICO -->
-<img align="right" alt="Cyberpunk Coder GIF" height="190px" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
 ### 🛠 Stack Tecnológico
+
+<table>
+  <tr>
+    <td width="70%" valign="top" align="center">
 
 #### Languages & Frameworks
 
@@ -65,6 +66,13 @@ filosofía: "Aprender construyendo proyectos reales"
 #### Tools & Cloud
 
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,supabase,vercel,tailwind,linux&perline=10" /> </a> </p>
+
+    </td>
+    <td width="30%" valign="middle" align="center">
+      <img alt="Cyberpunk Coder GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="max-width: 220px; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
