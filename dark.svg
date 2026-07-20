@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610">
 <defs>
   <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="#4F46E5">
-      <animate attributeName="stop-color" values="#4F46E5;#7C3AED;#0EA5E9;#4F46E5" dur="9s" repeatCount="indefinite"/>
+    <stop offset="0%" stop-color="#818CF8">
+      <animate attributeName="stop-color" values="#818CF8;#C084FC;#38BDF8;#818CF8" dur="9s" repeatCount="indefinite"/>
     </stop>
-    <stop offset="100%" stop-color="#7C3AED">
-      <animate attributeName="stop-color" values="#7C3AED;#0EA5E9;#4F46E5;#7C3AED" dur="9s" repeatCount="indefinite"/>
+    <stop offset="100%" stop-color="#C084FC">
+      <animate attributeName="stop-color" values="#C084FC;#38BDF8;#818CF8;#C084FC" dur="9s" repeatCount="indefinite"/>
     </stop>
   </linearGradient>
   <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
