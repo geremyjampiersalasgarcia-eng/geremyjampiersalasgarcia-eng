@@ -1,4 +1,12 @@
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light.svg" />
+  <img alt="Geremy Salas - Full Stack Engineer" src="dark.svg" />
+</picture>
+</div>
+
+<div align="center">
 
 <!-- BARRA DE STATUS -->
 ![Status](https://img.shields.io/badge/SYSTEM__STATUS:_ONLINE-0d1117?style=for-the-badge&logo=statuspage&logoColor=00FF99)
@@ -8,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF99,100:0d1117&height=200&section=header&text=GEREMY%20SALAS.&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
 <!-- ANIMACIÓN DE TEXTO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Ingeniero+Backend+%7C+Ecuador;Construyendo+SaaS+%7C+Multi-Tenant;Python+%2B+TypeScript+%2B+FastAPI+%2B+Next.js;Arquitectura+Segura+%7C+RBAC+%2B+Auditoría)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Full+Stack+Engineer+%7C+Ecuador;Construyendo+SaaS+%7C+Multi-Tenant;Python+%2B+TypeScript+%2B+FastAPI+%2B+Next.js;Arquitectura+Segura+%7C+RBAC+%2B+Auditoría)](https://git.io/typing-svg)
 
 <br>
 
@@ -198,6 +206,59 @@ filosofía: "Aprender construyendo proyectos reales"
 </td>
 </tr>
 </table>
+
+<!-- SEPARADOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- SEMILLERO IA -->
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/PÚBLICO-00FF99?style=flat-square&logoColor=white" /> Semillero IA &mdash; Sistema Multi-Agente RAG para Ventas
+
+> Sistema de Inteligencia Artificial Avanzado con agentes especializados para potenciar la mesa de ayuda.
+> Utiliza arquitectura Multi-Agente basada en LangGraph y procesamiento RAG con ChromaDB y Google Gemini.
+
+<details>
+<summary><b>Arquitectura y Tecnologías</b></summary>
+<br>
+
+| Capa | Tecnología | Propósito |
+|:-----|:-----------|:----------|
+| **Framework** | FastAPI + Python 3.11 | API REST asíncrona de alto rendimiento |
+| **Agentes** | LangChain + LangGraph | Flujo de agentes como grafo explícito con enrutamiento |
+| **Vector DB** | ChromaDB | Almacenamiento local de vectores y recuperación de doc. |
+| **IA / LLM** | Google Gemini (Vision & LLM) | Capacidad multimodal, Embeddings y ChatGenerativeAI |
+| **Frontend** | Next.js 14 + Tailwind + Shadcn | Interfaz de chat moderna y responsive |
+| **Base de Datos** | PostgreSQL + SQLAlchemy | Historial de conversaciones y auditoría robusta |
+
+</details>
+
+<details>
+<summary><b>Capacidades Principales</b></summary>
+<br>
+
+- **Agentes Especializados** &mdash; Catálogo, Políticas, Proceso de Venta, Multimodal y Registro.
+- **Enrutamiento Condicional** &mdash; Clasificador de intenciones decide el flujo óptimo.
+- **Multimodalidad** &mdash; Gemini Vision analiza imágenes de productos subidas al chat.
+- **RAG Local** &mdash; Recuperación precisa con ChromaDB para inyectar conocimiento.
+- **Seguridad** &mdash; Capas de "Guardrails" para evitar inyecciones de prompts.
+- **Observabilidad** &mdash; Instrumentación completa con LangChainInstrumentor.
+
+</details>
+
+<div align="center">
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=00FF99)](https://github.com/geremyjampiersalasgarcia-eng/Caso_Practico_Semillero_IA)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
