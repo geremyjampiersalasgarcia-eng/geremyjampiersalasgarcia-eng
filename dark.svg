@@ -35,7 +35,7 @@
   </feMerge>
 </filter>
   <mask id="revealMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="620">
-  <rect x="0" y="0" width="1180" height="0" fill="#030712">
+  <rect x="0" y="0" width="1180" height="0" fill="#FFFFFF">
     <animate attributeName="height" from="0" to="560" dur="3.0s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
 </mask>
