@@ -6,56 +6,6 @@
 </picture>
 </div>
 
-<div align="center">
-
-<!-- BARRA DE STATUS -->
-![Status](https://img.shields.io/badge/SYSTEM__STATUS:_ONLINE-0d1117?style=for-the-badge&logo=statuspage&logoColor=00FF99)
-![Role](https://img.shields.io/badge/Ingeniero_en_Sistemas_de_Informaci%C3%B3n-0d1117?style=for-the-badge&logo=target&logoColor=00FF99)
-
-<!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF99,100:0d1117&height=200&section=header&text=GEREMY%20SALAS.&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
-
-<!-- ANIMACIÓN DE TEXTO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Full+Stack+Engineer+%7C+Ecuador;Construyendo+SaaS+%7C+Multi-Tenant;Python+%2B+TypeScript+%2B+FastAPI+%2B+Next.js;Arquitectura+Segura+%7C+RBAC+%2B+Auditoría)](https://git.io/typing-svg)
-
-<br>
-
-> Desarrollador web y móvil con pasión por crear aplicaciones<br>
-> y experiencias de usuario de calidad. Siempre aprendiendo.
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-geremysalas.dev-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF99)](https://studio-rho-liart.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF99)](https://www.linkedin.com/in/geremy-jampier-salas-garcia-6a3a39302) [![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00FF99)](https://github.com/geremyjampiersalasgarcia-eng) [![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99)](mailto:geremyjampiersalasgarcia@gmail.com)
-
-</div>
-
-<!-- SEPARADOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- SOBRE MÍ -->
-<div align="center">
-
-### 🤓 Sobre Mí
-
-</div>
-
-```yaml
-nombre: Geremy Salas
-rol: Ingeniero en Sistemas de Información
-ubicación: Ecuador
-enfoque:
-  - Desarrollo backend con Python y FastAPI
-  - Aplicaciones web con Next.js y TypeScript
-  - Bases de datos y arquitectura de APIs
-  - Aprendiendo sobre IA e integraciones
-construyendo:
-  - KONTRAX  — Gestión de contratistas
-  - NOVADIFY — Alojamiento y turismo
-filosofía: "Aprender construyendo proyectos reales"
-```
-
-<!-- SEPARADOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🛠 Stack Tecnológico
 
